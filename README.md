@@ -9,3 +9,5 @@ twinfin requires the `requests` library.
 To run, place in the same directory as a file named `key.txt` which contains a MagicSeaweed.com API key. Run with
 `python twinfin.py 32`
 replacing `32` with the MagicSeaweed spot id for the spot you're interested in.
+
+<a href="http://magicseaweed.com"><img src="https://im-1-uk.msw.ms/msw_powered_by.png"></a>
